@@ -15,3 +15,4 @@ public class MainController {
 }
 
 //comprobacion de que se sube el commit en la rama adecuada
+//ya se ha creado la rama02 en el remoto, se subiran bien los cambios ahora?
